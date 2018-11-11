@@ -19,7 +19,7 @@ namespace ToDo.Controllers
         {
             _context = context;
         }
-
+        /*
         // GET: api/TodoItems
         [HttpGet]
         public IEnumerable<TodoItems> GetTodoItems()
@@ -104,5 +104,6 @@ namespace ToDo.Controllers
         {
             return _context.TodoItems.Any(e => e.Id == id);
         }
+        */
     }
 }

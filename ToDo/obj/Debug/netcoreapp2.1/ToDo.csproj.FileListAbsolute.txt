@@ -12,3 +12,4 @@ C:\Users\cptja\source\repos\ToDo\ToDo\obj\Debug\netcoreapp2.1\ToDo.AssemblyInfo.
 C:\Users\cptja\source\repos\ToDo\ToDo\obj\Debug\netcoreapp2.1\ToDo.RazorTargetAssemblyInfo.cache
 C:\Users\cptja\source\repos\ToDo\ToDo\obj\Debug\netcoreapp2.1\ToDo.dll
 C:\Users\cptja\source\repos\ToDo\ToDo\obj\Debug\netcoreapp2.1\ToDo.pdb
+C:\Users\cptja\source\repos\ToDo\ToDo\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
